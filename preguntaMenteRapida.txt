@@ -1,0 +1,35 @@
+0
+ Ordene asendente del calendario ?
+ Marzo
+ Abril
+ Septiembre
+ Junio
+CDBA
+1
+ Ordene alfabeticamente los siguintes estados ?
+ Tachira
+ Merida
+ Zulia
+ Falcon
+DBAC
+2
+ Ordene de manera descente la siguientes fechas ?
+ 24 de Julio
+ 5 de Julio
+ 24 de Junio
+ 17 de diciembre
+DABC
+3
+ Ordene las siguientes celebraciones venezolanas segun su fecha ?
+ Dia del trabajador
+ Dia de la madre
+ Carnaval
+ Semana santa
+CDAB
+4
+ Sigue la secuencia de la cancion ?
+ No fui
+ Fue tete
+ Por que yo
+ Pegale por
+BDCA
